@@ -7,6 +7,6 @@
 ### SiteRag
 > [!NOTE]
 > SiteRag - chrome addon that scraps websites into rag, supabase as backend, can use local ollama.  
-> Status - Want to try
-> Link - https://github.com/bracesproul/site-rag
-> Prerequisities - Local Ollama
+> Status - Want to try  
+> Link - https://github.com/bracesproul/site-rag  
+> Prerequisities - Local Ollama  
